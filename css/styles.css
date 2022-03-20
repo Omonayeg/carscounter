@@ -1,0 +1,77 @@
+body {
+    box-sizing: border-box;
+    background-color:  darkslategrey;
+    text-align: center;
+    margin: auto;
+}
+h1{
+font-size: 3rem;
+}
+
+
+h2 {
+    padding: 50px auto;
+    margin: 5% auto 4%;
+    font-size: 9rem;
+    
+}
+
+p {
+    font-size: 2rem;
+}
+
+button {
+    padding: 15px;
+    min-width: 50px;
+    min-height: 48px;
+    border-radius: 12px;
+    color: wheat;
+    font-size: 1.2rem;
+    display: inline-block;
+    margin: 10px;
+
+}
+
+
+.container-fluid {
+    background-color: darkslategrey;
+    color: white;
+    margin: 0 auto 3%;
+    padding: 5px 50px 5px;
+    opacity: 0.8;
+    width: 70%;
+}
+
+.save {
+    /* margin: 10px 20px; */
+    background-color:green;
+}
+
+.increment {
+    /* margin: 35px auto 2px; */
+    background-color: blue;
+}
+
+
+.decrement {
+    /* margin: 35px auto 2px; */
+    background-color:red;
+}
+/* 
+@media (max-width: 1028) {
+     .btn {
+        display: block; */
+    /* }
+
+    .container-fluid {
+        padding: 20%;
+    }
+} */
+
+footer {
+    font-size: large;
+    color: blanchedalmond;
+    background-color: black;
+    padding: 20px;
+    margin: 0 auto;
+}
